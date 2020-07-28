@@ -14,6 +14,13 @@ Creates a video capture frame and handles many different Video Capture functions
 
 Creates frame windows and handles various keyboard callback events to interact with the VideoCapture Frame.
 
+In this repo, we have used the following keyboard shortcuts:
+- SPACE key -> Take a screenshot
+- TAB key   -> Start/Stop recording video
+- ESC key   -> QUIT
+
+You can add a bunch of other key shortcuts in the Cameo class.
+
 ## How to Use
 
 Just clone the repo and run the <code>cameo.py</code> script which implements the Window Manager and Capture Manager objects. 
