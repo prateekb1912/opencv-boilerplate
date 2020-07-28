@@ -17,6 +17,7 @@ Creates frame windows and handles various keyboard callback events to interact w
 ## How to Use
 
 Just clone the repo and run the <code>cameo.py</code> script which implements the Window Manager and Capture Manager objects. 
+Then, create functions in the Cameo class for any computer vision task.
 
 
 Coming soon...
