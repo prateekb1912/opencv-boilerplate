@@ -29,7 +29,7 @@ Then, create functions in the Cameo class for any computer vision task.
 
 Coming soon...
 - Filtering Images
-- Tracking Faces
+- [Tracking Faces](https://www.github.com/prateek-ml/face-tracker-and-swapper "Face Detector and Swapper by Prateek Bhardwaj")
 - Detecting Foreground/Background Regions
 ... and much more.
 
