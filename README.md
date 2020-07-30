@@ -26,11 +26,9 @@ You can add a bunch of other key shortcuts in the Cameo class.
 Just clone the repo and run the <code>cameo.py</code> script which implements the Window Manager and Capture Manager objects. 
 Then, create functions in the Cameo class for any computer vision task.
 
+Some image processing tasks which I have performed with the Cameo class:
 
-Coming soon...
-- Filtering Images
+- [Filtering Images](https://www.github.com/prateek-ml/photo-film-filters "Emulating Photo Film Filters by Prateek Bhardwaj"
 - [Tracking Faces](https://www.github.com/prateek-ml/face-tracker-and-swapper "Face Detector and Swapper by Prateek Bhardwaj")
-- Detecting Foreground/Background Regions
-... and much more.
 
-Stay tuned!
+Happy Image Processing! :)
