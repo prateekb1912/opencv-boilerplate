@@ -28,7 +28,7 @@ Then, create functions in the Cameo class for any computer vision task.
 
 Some image processing tasks which I have performed with the Cameo class:
 
-- [Filtering Images](https://www.github.com/prateek-ml/photo-film-filters "Emulating Photo Film Filters by Prateek Bhardwaj"
+- [Filtering Images](https://www.github.com/prateek-ml/photo-film-filters "Emulating Photo Film Filters by Prateek Bhardwaj")
 - [Tracking Faces](https://www.github.com/prateek-ml/face-tracker-and-swapper "Face Detector and Swapper by Prateek Bhardwaj")
 
 Happy Image Processing! :)
